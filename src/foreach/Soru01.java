@@ -7,8 +7,8 @@ public class Soru01 {
 
 	public static void main(String[] args) {
 		/*
-		 Bir integer array  olusturunuz ve bu  arraydaki tum sayıların carpımını forech kullanarak bulunuz.
-		 sonucu tekrr yazdırınız
+		 Bir integer array  olusturunuz ve bu  arraydaki tum sayÃ½larÃ½n carpÃ½mÃ½nÃ½ forech kullanarak bulunuz.
+		 sonucu tekrr yazdÃ½rÃ½nÃ½z
 		 */
 		
 		Integer arr[]= {1,2,3,5,8,13,21};
@@ -17,14 +17,15 @@ public class Soru01 {
 	    
 	    System.out.println(ls);
 	    
-	    int carpım=1;
+	    int carpÃ½m=1;
 		
 	    for(Integer w:ls) {
 	   
-	    	carpım=carpım*w;
-	    }System.out.println("arraydeki sayılar carpımı  :"+ carpım);
+	    	carpÃ½m=carpÃ½m*w;
+	    }System.out.println("arraydeki sayÃ½lar carpÃ½mÃ½  :"+ carpÃ½m);
 		
 		
+		System.out.println("gÄ±thub denemesÄ±");
 		
 	}
 
