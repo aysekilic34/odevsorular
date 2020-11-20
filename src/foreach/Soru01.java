@@ -27,6 +27,7 @@ public class Soru01 {
 		
 		System.out.println("github denemesi");
 		
+		System.out.println("ikinci github denemesi");
 	}
 
 }
