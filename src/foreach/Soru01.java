@@ -17,15 +17,15 @@ public class Soru01 {
 	    
 	    System.out.println(ls);
 	    
-	    int carpým=1;
+	    int carpim=1;
 		
 	    for(Integer w:ls) {
 	   
-	    	carpým=carpým*w;
-	    }System.out.println("arraydeki sayýlar carpýmý  :"+ carpým);
+	    	carpim=carpim*w;
+	    }System.out.println("arraydeki sayilar carpimi  :"+ carpim);
 		
 		
-		System.out.println("gıthub denemesı");
+		System.out.println("github denemesi");
 		
 	}
 
